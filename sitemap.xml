@@ -2,31 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://latimerae.github.io/categories/about/</loc>
+    <lastmod>2021-09-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://latimerae.github.io/tags/about/</loc>
+    <lastmod>2021-09-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://latimerae.github.io/post/about-aela-wild/</loc>
+    <lastmod>2021-09-06T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://latimerae.github.io/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+    <lastmod>2021-09-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://latimerae.github.io/categories/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
-  </url><url>
-    <loc>https://latimerae.github.io/post/2020-12-01-aelawild/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
-  </url><url>
-    <loc>https://latimerae.github.io/tags/plot/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+    <lastmod>2021-09-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://latimerae.github.io/post/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
-  </url><url>
-    <loc>https://latimerae.github.io/categories/r/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
-  </url><url>
-    <loc>https://latimerae.github.io/tags/r-markdown/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
-  </url><url>
-    <loc>https://latimerae.github.io/tags/regression/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+    <lastmod>2021-09-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://latimerae.github.io/tags/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+    <lastmod>2021-09-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://latimerae.github.io/tags/crinoids/</loc>
+    <lastmod>2021-09-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://latimerae.github.io/categories/r/</loc>
+    <lastmod>2021-09-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://latimerae.github.io/post/2021-09-05-stars-of-stone/</loc>
+    <lastmod>2021-09-05T00:00:00+00:00</lastmod>
   </url>
 </urlset>

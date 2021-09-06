@@ -1,0 +1,15 @@
+---
+title: About Aela Wild
+author: A E Latimer
+date: '2021-09-06'
+slug: about-aela-wild
+categories:
+  - About
+tags:
+  - about
+Description: ''
+menu: main
+---
+
+
+Dr. Ash E Latimer (A. E. La) is paleontologist, here to inspire wonder by bringing you animations about weird creatures and little-known science.

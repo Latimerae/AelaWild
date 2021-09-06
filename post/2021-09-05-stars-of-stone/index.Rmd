@@ -1,0 +1,19 @@
+---
+title: Stars of stone
+author: Ash
+date: '2021-09-05'
+categories:
+  - R
+tags:
+  - crinoids
+slug:
+  - starsofstone
+menu: main
+---
+
+Great news, Rook's first adventure is complete. It's currently doing the rounds of some film festivals, but it's coming soon to you.
+
+Here's a little tease. 
+
+
+{{<youtube XJTYJk-I1qY>}}
