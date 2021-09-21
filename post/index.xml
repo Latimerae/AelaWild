@@ -1,30 +1,70 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Aela Wild</title>
+    <title>News on Aela Wild</title>
     <link>https://latimerae.github.io/post/</link>
-    <description>Recent content in Posts on Aela Wild</description>
+    <description>Recent content in News on Aela Wild</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 06 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://latimerae.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 20 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://latimerae.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>About Aela Wild</title>
-      <link>https://latimerae.github.io/post/about-aela-wild/</link>
-      <pubDate>Mon, 06 Sep 2021 00:00:00 +0000</pubDate>
+      <title>Making of Stars of Stone</title>
+      <link>https://latimerae.github.io/post/2021-09-20-sosmakingof/</link>
+      <pubDate>Mon, 20 Sep 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://latimerae.github.io/post/about-aela-wild/</guid>
-      <description>Dr. Ash E Latimer (A. E. La) is paleontologist, here to inspire wonder by bringing you animations about weird creatures and little-known science.</description>
+      <guid>https://latimerae.github.io/post/2021-09-20-sosmakingof/</guid>
+      <description>Now that the short is done, I have can finally share the years of footage and photos documenting the making-of process. I’m working on getting those into video format for youtube where you can expect a few short videos on the puppets, sets, and deleted scenes.
+Watch this space!</description>
     </item>
     
     <item>
-      <title>Stars of stone</title>
+      <title>Stars of Stone</title>
       <link>https://latimerae.github.io/post/2021-09-05-stars-of-stone/</link>
       <pubDate>Sun, 05 Sep 2021 00:00:00 +0000</pubDate>
       
       <guid>https://latimerae.github.io/post/2021-09-05-stars-of-stone/</guid>
-      <description>Great news, Rook’s first adventure is complete. It’s currently doing the rounds of some film festivals, but it’s coming soon to you.
-Here’s a little tease.
-  </description>
+      <description>Great news, Rook’s first adventure is complete. It’s currently doing the rounds of some film festivals, so I can’t share it publicly or it would be disqualified. But luckily donors don’t count against me, so my lovely Patreon supporters get early access now.
+Here’s a little teaser.  I would love to know what you think!</description>
+    </item>
+    
+    <item>
+      <title>Stop-Mo Jam 2021</title>
+      <link>https://latimerae.github.io/post/2021-09-19-stopmojamhalloween/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://latimerae.github.io/post/2021-09-19-stopmojamhalloween/</guid>
+      <description>This year’s Stop-Mo Jam, hosted over at Stop Motion Animation, had a Halloween theme!
+That’s my jam.I’ve been working hard to limit my projects, so I finished Stars of Stone first, in the last days of August. And then right away I rolled into prop-making for this one.
+First, six or seven thin layers of paper strips in PVA glue on a baloon, then a layer of soaked and shredded egg cartons with PVA, too.</description>
+    </item>
+    
+    <item>
+      <title>A Long Bird Stops The Drafts (Draughts)</title>
+      <link>https://latimerae.github.io/post/2021-3-20-birddoorstop/</link>
+      <pubDate>Sat, 20 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://latimerae.github.io/post/2021-3-20-birddoorstop/</guid>
+      <description>Our front door has a weird doorstop and a huge gap below the door, so I designed a weirdo bird to fit under it. I originally wanted it to be a bittern and was planning on painting it, but I couldn’t bring myself to change it from egret form.
+Then, after I made it, I used a thermal camera to have a look and see if it made a difference.</description>
+    </item>
+    
+    <item>
+      <title>Critters get published</title>
+      <link>https://latimerae.github.io/post/2020-11-07-animalscommission/</link>
+      <pubDate>Thu, 07 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://latimerae.github.io/post/2020-11-07-animalscommission/</guid>
+      <description>My partner, Timothee Bonnet needed some animal graphics for his projects and I was happy to oblige. I think they turned out pretty cute.
+If you’d like something similar for a project of yours, get in touch and we can discuss pricing.</description>
+    </item>
+    
+    <item>
+      <title>Toothless Bear gets Teeth</title>
+      <link>https://latimerae.github.io/post/2019-10-07-rsbear/</link>
+      <pubDate>Mon, 07 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://latimerae.github.io/post/2019-10-07-rsbear/</guid>
+      <description>This American black bear (Ursus americanus) was donated to the ANU to raise awareness of illegal trafficing and animal imports. Along the way, the bear lost her original fishy mouthful was feeling a bit toothless. The Ecology and Evolution group at the Australian National University tasked me with fiting her for prosthesis and doing a touch-up. This included cleaning the mouth and preparing it for new teeth, 3D printing some teeth from a CT scan, editing them down to fit the bear’s age, sculpting a new palate seating and painting it.</description>
     </item>
     
   </channel>

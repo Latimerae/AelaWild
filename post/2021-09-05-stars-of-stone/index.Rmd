@@ -1,19 +1,26 @@
 ---
-title: Stars of stone
+title: Stars of Stone
 author: Ash
 date: '2021-09-05'
-categories:
-  - R
-tags:
-  - crinoids
+categories: 
+  - animation
+tags: 
+  - crinoids  
+  - animation  
+  - short film  
+  - weird creatures  
+  - early access
 slug:
-  - starsofstone
-menu: main
+  - starsofstone2
+cover_image: '/images/long.jpg'
 ---
 
-Great news, Rook's first adventure is complete. It's currently doing the rounds of some film festivals, but it's coming soon to you.
+Great news, Rook's first adventure is complete. It's currently doing the rounds of some film festivals, so I can't share it publicly or it would be disqualified. But luckily donors don't count against me, so my lovely Patreon supporters get early access now.
 
-Here's a little tease. 
-
+Here's a little teaser.
 
 {{<youtube XJTYJk-I1qY>}}
+
+I would love to know what you think!
+ 
+
