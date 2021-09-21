@@ -8,8 +8,8 @@ tags:
   - crinoids  
   - animation  
   - short film  
-  - weird creatures  
-  - early access
+  - 'weird creatures'  
+  - 'early access'
 slug:
   - starsofstone2
 cover_image: '/images/short.jpg'

@@ -5,7 +5,11 @@ date: '2021-09-20'
 categories:
   - animation
 tags:
-  - crinoids, animation, short film, werid creatures, early access. 
+  - 'crinoids'
+  - 'animation'
+  - 'short film'
+  - 'werid creatures'
+  - 'early access'
 slug:
   - starsofstone
 cover_image: '/images/Graveyard.JPG'
