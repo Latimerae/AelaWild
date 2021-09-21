@@ -1,0 +1,19 @@
+root:{
+    --MAIN-LINK-color:#1C90F3; /* Color of links */
+    --MAIN-LINK-HOVER-color:#167ad0; /* Color of hovered links */
+}
+
+
+a:link { 
+    color: gold;
+        }
+a:visited {
+     text-decoration: none;
+        }
+a:hover {
+     text-decoration: bold;
+        }
+a:active {
+     text-decoration: underline;
+       }
+

@@ -1,0 +1,18 @@
+.f1 {
+    font-size: 3rem;
+}
+
+
+a:link { 
+    color: gold;
+    text-decoration: none;
+        }
+a:visited {
+    text-decoration: none;
+    color: dark-green;
+        }
+
+a:active {
+     text-decoration: bold;
+     color: gold;
+       }

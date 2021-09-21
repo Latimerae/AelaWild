@@ -1,0 +1,29 @@
+---
+title: A Long Bird Stops The Drafts (Draughts)
+author: Ash
+date: '2021-03-20'
+categories:
+  - crafts
+tags:
+  - sewing 
+  - crafts
+  - energy efficiency
+slug:
+  - draught stopper
+cover_image: '/images/DoorEgret.jpg'
+---
+
+Our front door has a weird doorstop and a huge gap below the door, so I designed a weirdo bird to fit under it. I originally wanted it to be a bittern and was planning on painting it, but I couldn't bring myself to change it from egret form.
+
+![](/images/DoorEgret.jpg)
+
+Then, after I made it, I used a thermal camera to have a look and see if it made a difference.
+
+Here's the door again with the egret in place. Darker colors are colder.
+!![](/images/WithEgret.JPG)
+
+You can really see the shadow of the egret when I remove it, here. It was keeping most of the cold from entering. The difference is pretty stark!
+
+[](/images/WithoutEgret.JPG)
+
+Now that I've seen the thermal images I would make the neck relatively shorter and body longer to insulate as much as possible, but the bird has so much character, I don't (r)egret a thing.

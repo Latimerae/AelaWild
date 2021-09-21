@@ -1,0 +1,21 @@
+---
+title: Critters get published
+author: Ash
+date: '2019-11-07'
+categories:
+  - commissions
+tags:
+  - animals
+  - science
+slug:
+  - Animals 
+featured_image: 
+cover_image: '/images/PCFWSkink.png'
+---
+
+My partner, [Timothee Bonnet](https://timotheenivalis.github.io//) needed some animal graphics for his projects and I was happy to oblige. I think they turned out pretty cute.
+
+![](/images/PCFWSkinkbig.png)
+
+![](/images/Albatross.png)
+If you'd like something similar for a project of yours, [get in touch](https://aelawild.com/contact) and we can discuss pricing. 
