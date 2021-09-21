@@ -1,7 +1,7 @@
 ---
-title: A Long Bird Stops The Drafts (Draughts)
+title: Birds as Insulation (Draughts)
 author: Ash
-date: '2021-03-20'
+date: '2021-05-20'
 categories:
   - crafts
 tags:
@@ -13,7 +13,7 @@ slug:
 cover_image: '/images/DoorEgret.jpg'
 ---
 
-Our front door has a weird doorstop and a huge gap below the door, so I designed a weirdo bird to fit under it. I originally wanted it to be a bittern and was planning on painting it, but I couldn't bring myself to change it from egret form.
+It's winter here in Australia and our front door has a weird doorstop and a huge gap below the door, so I designed a weirdo bird to fit under it. I originally wanted it to be a bittern and was planning on painting it, but I couldn't bring myself to change it from egret form.
 
 ![](/images/DoorEgret.jpg)
 

@@ -1,5 +1,5 @@
 ---
-title: Critters get published
+title: Need Critter Graphics?
 author: Ash
 date: '2019-11-07'
 categories:
@@ -13,9 +13,10 @@ featured_image:
 cover_image: '/images/PCFWSkink.png'
 ---
 
-My partner, [Timothee Bonnet](https://timotheenivalis.github.io//) needed some animal graphics for his projects and I was happy to oblige. I think they turned out pretty cute.
+I've made graphics for a few researchers at this point, so I was happy when my partner [Timothee Bonnet](https://timotheenivalis.github.io//) needed some animal graphics for his projects. I was happy to oblige and they turned out pretty cute.
 
-![](/images/PCFWSkinkbig.png)
+
+If you'd like something similar for a project of yours, [get in touch](https://aelawild.com/contact) and we can discuss pricing.![](/images/PCFWSkinkbig.png)
 
 ![](/images/Albatross.png)
-If you'd like something similar for a project of yours, [get in touch](https://aelawild.com/contact) and we can discuss pricing. 
+ 
