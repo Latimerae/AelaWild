@@ -7,7 +7,7 @@ categories:
 tags:
   - sewing 
   - crafts
-  - energy efficiency
+  - 'energy efficiency'
 slug:
   - draught stopper
 cover_image: '/images/DoorEgret.jpg'
@@ -26,4 +26,4 @@ You can really see the shadow of the egret when I remove it, here. It was keepin
 
 [](/images/WithoutEgret.JPG)
 
-Now that I've seen the thermal images I would make the neck relatively shorter and body longer to insulate as much as possible, but the bird has so much character, I don't (r)egret a thing.
+Now that I've seen the thermal images, iI would make the neck relatively shorter and body longer to insulate as much as possible, but the bird has so much character, I don't (r)egret a thing.
