@@ -8,7 +8,7 @@ tags:
   - crinoids, animation, short film, werid creatures, early access. 
 slug:
   - starsofstone
-cover_image: '/images/Graveyard.jpg'
+cover_image: '/images/Graveyard.JPG'
 ---
 
 
