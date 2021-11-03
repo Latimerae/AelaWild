@@ -1,0 +1,23 @@
+---
+title: Beans
+author: Ash Latimer
+date: '2021-10-02'
+slug: []
+categories:
+  - animation
+tags:
+  - stop motion
+  - animals
+  - animation
+  - crafts
+  - mini short
+  - props
+  - scene
+  - weird creatures
+featured_image: ''
+description: ''
+---
+
+{{<youtube YHgtB_rro-s>}}
+
+Here's my entry for the Noxon Challenge proposed by [Edu Puertas](https://www.youtube.com/c/edupuertasfruns) on youtube! The challenge was to create a 10 second short with camera movement. The prize is a noxon slider. Of course a slider would change the way I work and improve my process, but I loved the idea of the challenge. I only had a five days to make it, and I'm really happy with how it turned out.
