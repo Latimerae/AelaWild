@@ -13,11 +13,13 @@ Exciting news, Save the Snakes, a great organization that helps mediate human-sn
 
 You can check out Save the Snakes here: https://savethesnakes.org/
 And watch the 30s short here, fittingly released on Natonal Serpent day.
-<p>{{<youtube ltQcE0gapIo}}</p>
-
+<p>{{<youtube ltQcE0gapIo>}}</p>
 
 And here's a making-of video for you to enjoy on my channel :)
-<p>{{<youtube -zSHS8rc0W8}}</p>
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/-zSHS8rc0W8" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+</div>
+
 
 I hope this little short helps make a positive difference for snakes!
 Please like and subscribe to my channel to help me keep making content like this and keep improving my skills. 
